@@ -1,1 +1,1 @@
-I created a simple recipe website using only HTML.
+I created a simple recipe website using only HTML and CSS.
